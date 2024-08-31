@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolokh14
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning database
+- 🌱 I’m currently learning ROS 2
 - 💞️ I’m looking to collaborate on small team project
 - 📫 How to reach me ig: @nawafatuts14
 
